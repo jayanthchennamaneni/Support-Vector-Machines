@@ -4,6 +4,7 @@ This repository contains datasets and Jupyter notebooks to help you understand a
 
 ## Repository Structure
 
+````
 ├── data/
 │   ├── linear_dataset.csv       # A dataset linearly separable.
 │   ├── circle_dataset.csv       # A dataset with data points forming a circle at the centre.
@@ -12,3 +13,4 @@ This repository contains datasets and Jupyter notebooks to help you understand a
 ├── SVM_kernels.ipynb            # notebook demonstrates the classification of the datasets using different SVM kernels
 └── utils.py                     # Python script contains utility functions for plotting the data and the SVM models
 
+````
