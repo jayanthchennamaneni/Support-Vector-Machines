@@ -14,3 +14,7 @@ This repository contains datasets and Jupyter notebooks to help understand and v
 └── utils.py                     # Python script contains utility functions for plotting the data and the SVM models
 
 ````
+
+## Additional Resources
+
+- [An Idiot’s guide to Support vector machines (SVMs) - R. Berwick, Village Idiot](https://web.mit.edu/6.034/wwwbob/svm.pdf)
